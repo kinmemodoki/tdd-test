@@ -1,0 +1,11 @@
+{
+  "name": "tdd-test",
+  "version": "1.0.0",
+  "description": "tdd-test with myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'src/**/*.test.js'"
+  },
+  "author": "",
+  "license": "ISC"
+}
